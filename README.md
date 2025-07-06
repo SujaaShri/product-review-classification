@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Review Category Classifier (watsonx.ai)
+#  E-Commerce Review Category Classifier (watsonx.ai)
 
 This project uses IBM watsonx.ai's **FLAN-UL2** foundation model to classify product reviews into one of three categories:  
 **Electronics**, **Clothing**, or **Home Appliances**, using few-shot prompt-based learning.
